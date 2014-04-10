@@ -17,3 +17,5 @@ iNaturalist I18n Guidelines
    you need site-specific configurations like this, check
    `config/config.yml.example` to see if any have already been added. If not,
    open an issue.
+
+[Codeship Status](https://www.codeship.io/projects/89162dc0-a2ee-0131-2358-3afdf78ae4b9/status)
